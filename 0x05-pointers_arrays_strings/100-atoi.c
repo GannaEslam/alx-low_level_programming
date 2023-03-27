@@ -1,10 +1,10 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - check the code
+ * _atoi - converts a string to an integer
+ * @s: string to be converted
  *
- * Return: Always 0.
+ * Return: the int converted from the string
  */
 int _atoi(char *s)
 {
